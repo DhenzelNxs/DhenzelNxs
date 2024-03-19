@@ -32,3 +32,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhenzelnexxus&show_icons=true&theme=transparent)
+![Dhenzel Lima Ribeiro](https://github-readme-stats.vercel.app/api/top-langs/?username=DhenzelNexxus&layout=compact&langs_count=8&theme=tokyonight)
