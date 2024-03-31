@@ -14,6 +14,7 @@
 > Resolução de bugs em aplicações mobile no React Native, Publicação de aplicações mobile na playstore, Estilização de componentes no React Native, entre outros....
 
 <br>
+
 ### 💻 Habilidades em:
 
 <div style="display: inline_block">
