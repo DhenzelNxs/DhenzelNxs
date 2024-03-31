@@ -26,9 +26,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 💬 Social
+<div>Dhenzel Lima</div>
 
 <a href="https://www.linkedin.com/in/dhenzel-lima-00aa39251/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/dhenzel_nexxus/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
+<div>@dhenzel_nexxus</div>
+
+<a href="https://www.instagram.com/dhenzel_nexxus/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
 
