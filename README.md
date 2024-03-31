@@ -13,7 +13,8 @@
 * ### Estagiário de desenvolvimento na [Polibras Brazil Software](https://polibrassoftware.com.br/) (agosto 2023 - Dezembro 2023)
 > Resolução de bugs em aplicações mobile no React Native, Publicação de aplicações mobile na playstore, Estilização de componentes no React Native, entre outros....
 
-### 💻 Tecnologias
+<br>
+### 💻 Habilidades em:
 
 <div style="display: inline_block">
   <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
@@ -37,11 +38,11 @@
 ### ⚙️ Ferramentas
 
 <div style="display: inline_block"><br>
- <img align="center" alt="CarlosSTS-Vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="CarlosSTS-figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <img align="center" alt="CarlosSTS-github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- <img align="center" alt="CarlosSTS-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="CarlosSTS-android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
 
 <br>
