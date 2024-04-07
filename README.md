@@ -4,7 +4,7 @@
 
 * Desenvolvedor de software mobile e web.
 * Sempre buscando inovar em minhas aplicações.
-* Habilidades em desenvolver aplicações back-end com NodeJS e express.
+* Habilidades em desenvolver aplicações back-end com NodeJs & express e python & flask.
 * [Meu Portfolio](https://dhenzelportfolio.vercel.app/)
 
 
