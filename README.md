@@ -62,6 +62,11 @@
 <a href="https://www.instagram.com/dhenzel_nexxus/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhenzelNexxus&theme=gotham&layout=compact"width="40%"/> 
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhenzelnexxus&show_icons=true&theme=transparent)
-![Dhenzel Lima Ribeiro](https://github-readme-stats.vercel.app/api/top-langs/?username=DhenzelNexxus&layout=compact&langs_count=8&theme=tokyonight)
+<p align="center">
+<a><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DhenzelNexxus&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@dhz_nexxus"/></a>
+<a ><img src="https://github-readme-streak-stats.herokuapp.com?user=DhenzelNexxus&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@dhz_nexxus"/></a>
+</p>
