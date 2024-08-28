@@ -16,6 +16,9 @@
 * ### Estagiário de desenvolvimento na [Polibras Brazil Software](https://polibrassoftware.com.br/) (agosto 2023 - Dezembro 2023)
 > Resolução de bugs em aplicações mobile no React Native, Publicação de aplicações mobile na playstore, Estilização de componentes no React Native, entre outros....
 
+* ### Desenvolvedor FrontEnd na [Infinity Solution App](https://infinitysolutionsapp.com/) (agosto 2024 - O momento)
+> Em andamento...
+
 <br>
 
 ### 💻 Habilidades em:
